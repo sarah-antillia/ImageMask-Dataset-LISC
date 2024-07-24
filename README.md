@@ -91,7 +91,7 @@ Please run the following command for Python script <a href="./ImageMaskDatasetGe
 <pre>
 >python ImageMaskDatasetGenerator.py 
 </pre>
-This command generate <b>PreAugmented-Leukocyte-master</b> from bmp files in <b>Main Dataset</b> and  
+This command generates <b>PreAugmented-Leukocyte-master</b> from bmp files in <b>Main Dataset</b> and  
 <b>Ground Truth Segmentation </b> datasets, by using the following very limited augmentation methods;<br>
 <ul>
 <li>horitonal flipping</li>
