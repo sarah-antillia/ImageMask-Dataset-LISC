@@ -22,8 +22,7 @@ The LISC database includes the hematological images taken from peripheral blood 
 The database has been released to enable comparative evaluation of different techniques on nucleus and 
 cytoplasm segmentation and also recognition of different white blood cells in hematological images. 
 
-
-<br><br><b>Data description</b><br>
+<br><b>Data description</b><br>
 
 Samples were taken from peripheral blood of 8 normal subjects and 400 samples were obtained from 100 
 microscope slides. The microscope slides were smeared and stained by Gismo-Right technique and images were 
@@ -38,8 +37,7 @@ cytoplasm were manually segmented by an expert.
 
 P.S: Manual ground truth for only 250 images, has been provided.
 
-
-<br><br><b>Using the database</b><br>
+<br><b>Using the database</b><br>
 <b>
 The data included in this database can be used, free of charge, for research and educational purposes.<br>
 Copying, redistribution, and any unauthorized commercial use are prohibited.</b>
