@@ -14,7 +14,7 @@ The orginal dataset use here has been taken from
 <a href="http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm"> 
 LISC: Leukocyte Images for Segmentation and Classification</a>
 <br>
-The following explanation has been taken from the websiste above.<br>
+The following explanation has been taken from the websiste above.
 <hr>
 <br><b>Introduction</b><br>
 
