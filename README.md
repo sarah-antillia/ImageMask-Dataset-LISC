@@ -14,8 +14,8 @@ The orginal dataset use here has been taken from
 <a href="http://users.cecs.anu.edu.au/~hrezatofighi/Data/Leukocyte%20Data.htm"> 
 LISC: Leukocyte Images for Segmentation and Classification</a>
 <br>
-The following explanation has been taken from websiste above.<br>
-
+The following explanation has been taken from the websiste above.<br>
+<hr>
 <br><b>Introduction</b><br>
 
 The LISC database includes the hematological images taken from peripheral blood of healthy subjects. 
@@ -51,10 +51,10 @@ Automatic recognition of  five types of white blood cells in peripheral <br>
 blood. Computerized Medical Imaging and Graphics 35(4) (2011) 333--343.<br>
 
 In addition, we appreciate to hear about any publications that use the LISC database. Feedback on the database is also welcome.
+<hr>
 
-
-<h3>2. Download Training and Testing dataset</h3>
-If you would like to create your own dataset, please download Trainign ad Test dataset from the following link.<br>
+<h3>2. Download LISC Database </h3>
+If you would like to create your own dataset, please download Ground Truth and Main Dataset from the following link.<br>
 <a href="http://users.cecs.anu.edu.au/~hrezatofighi/Data/LISC%20Database.zip">LISC Datase.zip</a><br>
 
 
