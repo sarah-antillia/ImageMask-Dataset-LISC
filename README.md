@@ -16,7 +16,7 @@ LISC: Leukocyte Images for Segmentation and Classification</a>
 <br>
 The following explanation has been taken from the websiste above.
 <hr>
-<br><b>Introduction</b><br>
+<b>Introduction</b><br>
 
 The LISC database includes the hematological images taken from peripheral blood of healthy subjects. 
 The database has been released to enable comparative evaluation of different techniques on nucleus and 
